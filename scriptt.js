@@ -7,4 +7,4 @@ console.log(friends);
 friends.push("omi");
 console.log(friends);
 
-console.log(friends.indexOf("omi baba"));
+console.log(friends.indexOf("omibaba"));
